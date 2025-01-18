@@ -1,0 +1,8 @@
+﻿
+<label for="CashSelector">Select Currency:</label>
+<br>
+<select id="CashSelector" ng-model="scopeModel.selectedCash.selectedCurrency" ng-disabled="scopeModel.disabled">
+    <option ng-repeat="option in CashOptions" value="{{option.value}}" ng-selected="option.value === scopeModel.selectedCash.selectedCurrency">{{option.description}}</option>
+</select>
+
+<!--<select id="CashSelector" ng-model="selectedCash" ng-disabled="disabled" ng-options="option.value as option.description for option in CashOptions"></select>-->

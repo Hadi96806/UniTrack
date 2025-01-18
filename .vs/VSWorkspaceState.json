@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\StudentsWebApp",
+    "\\StudentsWebApp\\Controllers",
+    "\\StudentsWebApp\\Managers",
+    "\\StudentsWebApp\\MyViews",
+    "\\StudentsWebApp\\MyViews\\Student",
+    "\\StudentsWebApp\\Scripts",
+    "\\StudentsWebApp\\Views",
+    "\\StudentsWebApp\\Views\\Home"
+  ],
+  "SelectedNode": "\\StudentsWebApp\\Managers\\DepartmentManager.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,4 @@
+﻿<!-- university-selector-template.html -->
+<label for="universitySelector">Select University:</label>
+<br>
+<select id="universitySelector" ng-model="selectedUniversity" ng-options="university.Id as university.Name for university in universities" ng-disabled="editMode"></select>

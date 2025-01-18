@@ -1,0 +1,18 @@
+﻿<div>
+    <label for="FinancierName">Financier Name:</label>
+    <input type="text" id="FinancierName" ng-model="financierName" required><br>
+
+    <label>Select FinancialAid Type:</label><br>
+    <select ng-model="selectedAid">
+        <option value="Percentage">Percentage</option>
+        <option value="FixedAmount">Fixed Amount</option>
+    </select>
+    <!-- Dynamically load the selected sub-selector -->
+    <div ng-if="selectedAid === 'Percentage'">
+        <percentage-directive on-ready="onPercentageDirectiveReady"></percentage-directive>
+    </div>
+    <div ng-if="selectedAid === 'FixedAmount'">
+        <fixed-amount on-ready="onFixedAmountDirectiveReady"></fixed-amount>
+    </div>
+</div>
+

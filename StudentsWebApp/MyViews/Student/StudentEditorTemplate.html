@@ -1,0 +1,27 @@
+﻿
+<div ng-controller="StudentEditorController">
+    <!-- your-modal-template.html -->
+    <div class="modal-header">
+        <h3 class="modal-title">Student Editor</h3>
+    </div>
+    <div class="modal-body">
+        <form name="studentForm">
+            <div class="form-group">
+                <label for="studentName">Name:</label>
+                <!-- Input for student name -->
+                <input type="text" id="studentName" ng-model="parameters.studentName" class="form-control" required />
+            </div>
+
+            <gender-selector on-ready="scopeModel.onGenderSelectorReady"></gender-selector><br>
+            <university-selector on-ready="scopeModel.onUniversitySelectorReady" selected-university="selectedUniversity" on-selection-changed="onSelectionChanged(selectedUniversity)"></university-selector> <br>
+            <department-selector on-ready="scopeModel.onDepartmentSelectorReady"></department-selector><br>
+            <financial-Aid on-ready="scopeModel.onFinancialAidSelectorReady"></financial-Aid><br>
+            <payment-method on-ready="scopeModel.onPaymentMethodSelectorReady"></payment-method><br>
+
+        </form>
+    </div>
+    <div class="modal-footer">
+        <button class="btn btn-primary" ng-click="scopeModel.save()">Save</button>
+        <button class="btn btn-default" ng-click="close()">Close</button>
+    </div>
+</div>

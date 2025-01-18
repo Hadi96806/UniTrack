@@ -1,0 +1,20 @@
+﻿<div ng-controller="UniversityEditorController">
+    <!-- your-modal-template.html -->
+    <div class="modal-header">
+        <h3 class="modal-title">University Editor</h3>
+    </div>
+    <div class="modal-body">
+        <form name="UniversityForm">
+            <div class="form-group">
+                <label for="UniversityName">Name:</label>
+                <!-- Input for University name -->
+                <input type="text" id="UniversityName" ng-model="parameters.UniversityName" class="form-control" required />
+            </div>
+        </form>
+    </div>
+    <div class="modal-footer">
+        <button class="btn btn-primary" ng-click="scopeModel.save()">Save</button>
+        <button class="btn btn-default" ng-click="close()">Close</button>
+    </div>
+
+</div>

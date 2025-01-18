@@ -1,0 +1,16 @@
+﻿<table class="table">
+    <thead>
+        <tr>
+            <th>Department ID</th>
+            <th>Department Name</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr ng-repeat="Department in departments">
+            <td>{{ Department.Id }}</td>
+            <td>{{ Department.Name }}</td>
+            <td><button type="button" ng-click="scopeModel.editDepartment(Department)">edit</button></td>
+        </tr>
+    </tbody>
+</table>

@@ -1,0 +1,69 @@
+﻿@{
+    ViewData["Title"] = "Students";
+}
+
+<!-- Students.html -->
+<div ng-controller="StudentController">
+    <input id="" type="text" ng-model="filter" placeholder="Filter students" />
+    <button type="button" ng-click="scopeModel.getFilteredStudents(filter)">Filter</button>
+    <button type="button" ng-click="scopeModel.addStudent()">Add Student</button>
+
+    <!-- Student Table -->
+    <table class="table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Gender</th>
+                <th>University</th>
+                <th>Department</th>
+                <th>Payment Method</th>
+                <th>FinancialAid</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr ng-repeat="student in scopeModel.displayedStudents">
+                <td>{{ student.Id }}</td>
+                <td>{{ student.Name }}</td>
+                <td>{{ student.gender }}</td>
+                <td>{{ student.UniName }}</td>
+                <td>{{ student.DepartmentName }}</td>
+                <td>{{ student.PaymentMethod }}</td>
+                <td>{{ student.FinancialAid }}</td>
+                <td><button type="button" ng-click="scopeModel.editStudent(student)">Edit</button></td>
+            </tr>
+        </tbody>
+    </table>
+
+
+    <!-- Pagination -->
+    <style>
+        .disabled-li {
+            opacity: 0.5;
+            pointer-events: none;
+        }
+        ul.pagination li a.active-page {
+            background-color: #00bdf5 !important;
+            color: white !important;
+        }
+    </style>
+
+    <ul class="pagination">
+        <li ng-class="{ 'disabled-li': scopeModel.currentPage <= 1 }">
+            <a href="#" ng-click="scopeModel.setPage(scopeModel.pages[scopeModel.currentPage - 2])" aria-label="Previous">
+                <span aria-hidden="true">&laquo; Prev</span>
+            </a>
+        </li>
+        <li ng-repeat="page in scopeModel.pages">
+            <a href="#" ng-click="scopeModel.setPage(page)" ng-class="{ 'active-page': page.title === scopeModel.currentPage }">{{ page.title }}</a>
+        </li>
+        <li ng-class="{ 'disabled-li': scopeModel.currentPage >= scopeModel.pages.length }">
+            <a href="#" ng-click="scopeModel.setPage(scopeModel.pages[scopeModel.currentPage])" aria-label="Next">
+                <span aria-hidden="true">Next &raquo;</span>
+            </a>
+        </li>
+    </ul>
+
+
+</div>

@@ -1,0 +1,14 @@
+﻿<div>
+    <label>Select Payment Method:</label><br>
+    <select ng-model="selectedPayment"  ng-change="selectSubSelector(selectedPayment)">
+        <option value="CashMethod">Cash</option>
+        <option value="BankMethod">Bank</option>
+    </select>
+    <!-- Dynamically load the selected sub-selector -->
+    <div ng-if="selectedPayment === 'CashMethod'">
+        <cash-selector on-ready="onCashDirectiveReady"></cash-selector>
+    </div>
+    <div ng-if="selectedPayment === 'BankMethod'">
+        <bank-selector on-ready="onBankDirectiveReady"></bank-selector>
+    </div>
+</div>

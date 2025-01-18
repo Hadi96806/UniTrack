@@ -1,0 +1,23 @@
+﻿<div ng-controller="DepartmentEditorController">
+    <!-- your-modal-template.html -->
+    <div class="modal-header">
+        <h3 class="modal-title">Department Editor</h3>
+    </div>
+    <div class="modal-body">
+        <form name="DepartmentForm">
+            <div class="form-group">
+                <label for="DepartmentName">Department:</label>
+                <!-- Input for Department name -->
+                <input type="text" id="DepartmentName" ng-model="parameters.DepartmentName" class="form-control" required />
+            </div>
+
+            <university-selector on-ready="onItemDirectiveReady" selected-university="selectedUniversity" on-selection-changed="onSelectionChanged(selectedUniversity)"></university-selector>
+            <!--<university-selector on-ready="onUniversitySelectorReady" selected-university="selectedUniversity" on-selection-changed="onSelectionChanged(selectedUniversity)"></university-selector>-->
+        </form>
+    </div>
+    <div class="modal-footer">
+        <button class="btn btn-primary" ng-click="scopeModel.save()">Save</button>
+        <button class="btn btn-default" ng-click="close()">Close</button>
+    </div>
+
+</div>

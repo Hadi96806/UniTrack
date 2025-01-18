@@ -1,0 +1,48 @@
+C:\Users\hadi\Desktop\StudentsWebApp\StudentsWebAppTests\bin\Debug\StudentsWebAppTests.dll
+C:\Users\hadi\Desktop\StudentsWebApp\StudentsWebAppTests\bin\Debug\StudentsWebAppTests.pdb
+C:\Users\hadi\Desktop\StudentsWebApp\StudentsWebAppTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\hadi\Desktop\StudentsWebApp\StudentsWebAppTests\obj\Debug\StudentsWebAppTests.csproj.AssemblyReference.cache
+C:\Users\hadi\Desktop\StudentsWebApp\StudentsWebAppTests\obj\Debug\StudentsWebAppTests.csproj.CoreCompileInputs.cache
+C:\Users\hadi\Desktop\StudentsWebApp\StudentsWebAppTests\obj\Debug\StudentsWebAppTests.csproj.CopyComplete
+C:\Users\hadi\Desktop\StudentsWebApp\StudentsWebAppTests\obj\Debug\StudentsWebAppTests.dll
+C:\Users\hadi\Desktop\StudentsWebApp\StudentsWebAppTests\obj\Debug\StudentsWebAppTests.pdb
+C:\Users\Hadi\Desktop\C#\Phase V\StudentsWebApp\StudentsWebAppTests\bin\Debug\StudentsWebAppTests.dll
+C:\Users\Hadi\Desktop\C#\Phase V\StudentsWebApp\StudentsWebAppTests\bin\Debug\StudentsWebAppTests.pdb
+C:\Users\Hadi\Desktop\C#\Phase V\StudentsWebApp\StudentsWebAppTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Hadi\Desktop\C#\Phase V\StudentsWebApp\StudentsWebAppTests\obj\Debug\StudentsWebAppTests.csproj.AssemblyReference.cache
+C:\Users\Hadi\Desktop\C#\Phase V\StudentsWebApp\StudentsWebAppTests\obj\Debug\StudentsWebAppTests.csproj.CoreCompileInputs.cache
+C:\Users\Hadi\Desktop\C#\Phase V\StudentsWebApp\StudentsWebAppTests\obj\Debug\StudentsWebAppTests.csproj.CopyComplete
+C:\Users\Hadi\Desktop\C#\Phase V\StudentsWebApp\StudentsWebAppTests\obj\Debug\StudentsWebAppTests.dll
+C:\Users\Hadi\Desktop\C#\Phase V\StudentsWebApp\StudentsWebAppTests\obj\Debug\StudentsWebAppTests.pdb
+C:\Users\Hadi\Desktop\C#\Phase VI\DirectivesWebApp\StudentsWebAppTests\bin\Debug\StudentsWebAppTests.dll
+C:\Users\Hadi\Desktop\C#\Phase VI\DirectivesWebApp\StudentsWebAppTests\bin\Debug\StudentsWebAppTests.pdb
+C:\Users\Hadi\Desktop\C#\Phase VI\DirectivesWebApp\StudentsWebAppTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Hadi\Desktop\C#\Phase VI\DirectivesWebApp\StudentsWebAppTests\obj\Debug\StudentsWebAppTests.csproj.AssemblyReference.cache
+C:\Users\Hadi\Desktop\C#\Phase VI\DirectivesWebApp\StudentsWebAppTests\obj\Debug\StudentsWebAppTests.csproj.CoreCompileInputs.cache
+C:\Users\Hadi\Desktop\C#\Phase VI\DirectivesWebApp\StudentsWebAppTests\obj\Debug\StudentsWebAppTests.csproj.CopyComplete
+C:\Users\Hadi\Desktop\C#\Phase VI\DirectivesWebApp\StudentsWebAppTests\obj\Debug\StudentsWebAppTests.dll
+C:\Users\Hadi\Desktop\C#\Phase VI\DirectivesWebApp\StudentsWebAppTests\obj\Debug\StudentsWebAppTests.pdb
+C:\Users\Hadi\Desktop\C#\Phase VII\Payment Method\StudentsWebAppTests\bin\Debug\StudentsWebAppTests.dll
+C:\Users\Hadi\Desktop\C#\Phase VII\Payment Method\StudentsWebAppTests\bin\Debug\StudentsWebAppTests.pdb
+C:\Users\Hadi\Desktop\C#\Phase VII\Payment Method\StudentsWebAppTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Hadi\Desktop\C#\Phase VII\Payment Method\StudentsWebAppTests\obj\Debug\StudentsWebAppTests.csproj.AssemblyReference.cache
+C:\Users\Hadi\Desktop\C#\Phase VII\Payment Method\StudentsWebAppTests\obj\Debug\StudentsWebAppTests.csproj.CoreCompileInputs.cache
+C:\Users\Hadi\Desktop\C#\Phase VII\Payment Method\StudentsWebAppTests\obj\Debug\StudentsWebAppTests.csproj.CopyComplete
+C:\Users\Hadi\Desktop\C#\Phase VII\Payment Method\StudentsWebAppTests\obj\Debug\StudentsWebAppTests.dll
+C:\Users\Hadi\Desktop\C#\Phase VII\Payment Method\StudentsWebAppTests\obj\Debug\StudentsWebAppTests.pdb
+C:\Users\Hadi\Desktop\C#\Phase VIII\DrillDown\StudentsWebAppTests\bin\Debug\StudentsWebAppTests.dll
+C:\Users\Hadi\Desktop\C#\Phase VIII\DrillDown\StudentsWebAppTests\bin\Debug\StudentsWebAppTests.pdb
+C:\Users\Hadi\Desktop\C#\Phase VIII\DrillDown\StudentsWebAppTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Hadi\Desktop\C#\Phase VIII\DrillDown\StudentsWebAppTests\obj\Debug\StudentsWebAppTests.csproj.AssemblyReference.cache
+C:\Users\Hadi\Desktop\C#\Phase VIII\DrillDown\StudentsWebAppTests\obj\Debug\StudentsWebAppTests.csproj.CoreCompileInputs.cache
+C:\Users\Hadi\Desktop\C#\Phase VIII\DrillDown\StudentsWebAppTests\obj\Debug\StudentsWebAppTests.csproj.CopyComplete
+C:\Users\Hadi\Desktop\C#\Phase VIII\DrillDown\StudentsWebAppTests\obj\Debug\StudentsWebAppTests.dll
+C:\Users\Hadi\Desktop\C#\Phase VIII\DrillDown\StudentsWebAppTests\obj\Debug\StudentsWebAppTests.pdb
+C:\Users\Hadi\Desktop\C#\Phase IX\Directives Communication\StudentsWebAppTests\bin\Debug\StudentsWebAppTests.dll
+C:\Users\Hadi\Desktop\C#\Phase IX\Directives Communication\StudentsWebAppTests\bin\Debug\StudentsWebAppTests.pdb
+C:\Users\Hadi\Desktop\C#\Phase IX\Directives Communication\StudentsWebAppTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Hadi\Desktop\C#\Phase IX\Directives Communication\StudentsWebAppTests\obj\Debug\StudentsWebAppTests.csproj.AssemblyReference.cache
+C:\Users\Hadi\Desktop\C#\Phase IX\Directives Communication\StudentsWebAppTests\obj\Debug\StudentsWebAppTests.csproj.CoreCompileInputs.cache
+C:\Users\Hadi\Desktop\C#\Phase IX\Directives Communication\StudentsWebAppTests\obj\Debug\StudentsWebAppTests.csproj.CopyComplete
+C:\Users\Hadi\Desktop\C#\Phase IX\Directives Communication\StudentsWebAppTests\obj\Debug\StudentsWebAppTests.dll
+C:\Users\Hadi\Desktop\C#\Phase IX\Directives Communication\StudentsWebAppTests\obj\Debug\StudentsWebAppTests.pdb
