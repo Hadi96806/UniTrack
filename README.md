@@ -41,5 +41,5 @@ The UniTrack System is a C# application with an AngularJS front-end. It facilita
 Feel free to fork this repository and create pull requests for any enhancements or bug fixes.
 
 ## License
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available.
 
